@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+body{
+    background-color:#B9DFEE;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+
+canvas{
+background: #B9DFEE;
+}
